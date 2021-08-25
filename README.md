@@ -1,5 +1,8 @@
 
 <p align="start">
+   <a href="https://github.com/zqlq4ever">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqlq4ever&theme=light&hide_langs_below=1" />
+  </a>
   <a href="https://github.com/zqlq4ever">
     <img src="https://github-readme-stats.vercel.app/api?username=zqlq4ever&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
